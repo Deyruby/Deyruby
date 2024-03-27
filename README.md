@@ -4,8 +4,6 @@
 </div>
 
 
-
-About me: 
 <div align="center">
 A full stack Software Developer, Petroleum Engineer, from Venezuela, living in Chile since 2018, passion for challenges, learn new thigns and achieve goals with the best results, proactive, sociable and enthusiastic.
 </div>
@@ -23,7 +21,7 @@ A full stack Software Developer, Petroleum Engineer, from Venezuela, living in C
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=whit">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deyruby)](https://github.com/deyruby/github-readme-stats)
+
 
 
 
