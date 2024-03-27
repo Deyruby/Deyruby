@@ -1,4 +1,4 @@
-<h1  align="center">Hello, I'm Deyruby 👋</h1> 
+<h1  align="center">Hello👋, I'm Deyruby</h1> 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDFoaHR6a3JvZHF1Y3duNzM4a3BxaGlxc21pYXZwcjNjYTdnbzdtMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width = "300" heigth= "300">
 </div>
